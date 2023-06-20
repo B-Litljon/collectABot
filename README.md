@@ -10,17 +10,6 @@ CollectiBot is an innovative application that simplifies the process of purchasi
 - **Simplified Botting Experience**: The application abstracts away the complexities of botting by providing a user-friendly interface that handles the automation process behind the scenes.
 - **Customizable Automation**: Users can configure CollectiBot with personalized settings to match specific websites, including the ability to set up wait times, define search criteria, and handle various checkout scenarios.
 
-## Getting Started
-
-To get started with CollectiBot, follow these steps:
-
-1. Install the necessary dependencies by running `npm install`.
-2. Configure the application settings, including target websites, bot behavior, and personal preferences.
-3. Launch the application by running `npm start`.
-4. Access the CollectiBot interface through a web browser.
-5. Provide the necessary inputs, such as website URLs and desired collectibles, to initiate the botting process.
-6. Monitor the bot's progress and enjoy an improved purchasing experience.
-
 ## Technologies Used
 
 CollectiBot is built using the following technologies:
