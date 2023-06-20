@@ -1,4 +1,4 @@
-# CollectiBot
+# CollectABot
 
 CollectiBot is an innovative application that simplifies the process of purchasing collectibles by leveraging web automation and botting techniques. It provides users with a high-level interface to interact with web pages and streamline the purchasing experience, especially for in-demand items that quickly sell out or are targeted by scalpers.
 
