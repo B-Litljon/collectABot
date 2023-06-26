@@ -1,6 +1,6 @@
 const asyncHandler = require('express-async-handler')
 const bcrypt = require('bcrypt')
-const User = require('./models/User')
+const User = require('../models/User')
 
 
 const getAllUsers = asyncHandler(async (req, res) => {
