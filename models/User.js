@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const userSchema = new Mongoose.Schema({
+const userSchema = new mongoose.Schema({
     user_name: {
         type: String,
         required: true
@@ -12,21 +12,7 @@ const userSchema = new Mongoose.Schema({
     password: {
         type: String,
         required: true
-    },
-    pptr_prompts:[{ // prompts for puppeteer
-        page_url: {
-            type: String,
-            required: false
-        },
-        item_name: {
-            type: String,
-            required: false
-        },
-        purchase_qty: {
-            type: Number,
-            required: true
-        }
-    }]
+    }
 })
 
 module.exports = mongoose.model('User', userSchema)
